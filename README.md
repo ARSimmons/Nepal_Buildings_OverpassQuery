@@ -20,6 +20,8 @@ Notably 566 nodes (at 5/4/2015, 3:19 PM PST) show as have been edited in the pas
 
 *[overpass-turbo.eu](http://overpass-turbo.eu/s/9ay "Overpass Source Query")
 
+*[Directions on how to create a url link to a OSM JSON file](http://www.mappa-mercia.org/2014/09/creating-an-always-up-to-date-map.html "URL-OSM JSOM")
+
 *[Raw JSON from Overpass](http://overpass-api.de/api/interpreter?data=[out:json][timeout:25];(node["building"="yes"](27.51314343580719,84.4683837890625,28.62551444875789,85.91720581054688)->.cr;node["building"="damaged"](27.51314343580719,84.4683837890625,28.62551444875789,85.91720581054688);node["building"="collapsed"](27.51314343580719,84.4683837890625,28.62551444875789,85.91720581054688););out meta;>;out skel qt; "Raw JSON from Overpass")
 
 *NOTE: THIS PROJECT IS STILL in progress as of 5/3/2015*
